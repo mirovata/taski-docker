@@ -10,9 +10,9 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '158.160.31.227', 
-    '127.0.0.1', 
-    'localhost', 
+    '158.160.31.227',
+    '127.0.0.1',
+    'localhost',
     'mirovata.hopto.org'
 ]
 
